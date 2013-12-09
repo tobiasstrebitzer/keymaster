@@ -1,0 +1,10 @@
+{
+    "name": "ys-keymaster",
+    "version": "0.0.1",
+    "main": "keymaster.js",
+    "author": "Yad Smood",
+    "ignore": [
+        "test.html",
+        "package.json"
+    ]
+}
